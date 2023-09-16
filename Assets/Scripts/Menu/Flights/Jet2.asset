@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edf09b9b0f04f75449e4e1bdacd5f5b7, type: 3}
+  m_Name: Jet2
+  m_EditorClassIdentifier: 
+  flightId: 1
+  flightName: Jet 2
+  flightDescreption: 
+  flightPrice: 500
+  maxSpeed: 80
+  acceleration: 1
+  flightModel: {fileID: 5531392799359192558, guid: 07a5b75ba778667448eec310843415f1,
+    type: 3}
